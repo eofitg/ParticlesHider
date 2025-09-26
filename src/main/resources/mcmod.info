@@ -1,0 +1,10 @@
+[
+{
+  "modid": "particleshider",
+  "name": "ParticlesHider",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["eofitg"]
+}
+]
